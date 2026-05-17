@@ -23,8 +23,6 @@ Currently **3 kyu** — solving advanced kata daily
 - CS Fundamentals → Flutter / Dart
 
 ## 📫 Connect
-[
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)
-
-](https://linkedin.com/in/ahmedmadkour)
+- 💼 [LinkedIn](https://linkedin.com/in/ahmedmadkour)
+- 🏆 [Codewars](https://www.codewars.com/users/Ahmedmadkour96)
