@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Ahmed Madkour 👋
 
-<!--
-**Amrm1896/Amrm1896** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught Python developer based in Egypt.
+Building strong foundations to transition into mobile development with Flutter.
 
-Here are some ideas to get you started:
+## 🐍 Python Skills
+- OOP · Decorators · Closures · Abstract Classes
+- Descriptor Protocol · Itertools · Functools
+- Algorithms: BFS, Binary Search, Bit Manipulation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Codewars
+Currently **3 kyu** — solving advanced kata daily
+
+[
+
+![Codewars](https://www.codewars.com/users/Ahmedmadkour96/badges/large)
+
+](https://www.codewars.com/users/Ahmedmadkour96)
+
+## 📚 Currently Learning
+- Data Structures & Algorithms
+- Git & Version Control
+- CS Fundamentals → Flutter / Dart
+
+## 📫 Connect
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)
+
+](https://linkedin.com/in/ahmedmadkour)
